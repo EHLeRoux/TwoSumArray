@@ -1,4 +1,4 @@
-
+// Author: Eduard Le Roux
 class twoNumberSum {
 	public static int[] twoSum(int[] array, int targetSum) { 
 			for (int i = 0 ; i < array.length; i++) { 
