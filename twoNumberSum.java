@@ -1,5 +1,9 @@
 // Author: Eduard Le Roux
 class twoNumberSum {
+	/*
+	 * This method takes in an array of integers (positive and negative) and a targetsum, 
+	 * the method then returns two values in the array that sum up to that target sum.
+	 */
 	public static int[] twoSum(int[] array, int targetSum) { 
 			for (int i = 0 ; i < array.length; i++) { 
 				int first = array[i]; 
